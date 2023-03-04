@@ -3,7 +3,8 @@ LAB 2
 Compulsory 
 
 *Create an object-oriented model of the problem. You should have (at least) the following classes: Location, Road. (Done)
- -The location and road types will be implemented as enums.
+ 
+  -The location and road types will be implemented as enums.
 
 *Each class should have appropriate constructors, getters and setters.(Done)
 
