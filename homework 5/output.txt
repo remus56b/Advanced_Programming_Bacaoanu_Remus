@@ -1,0 +1,2 @@
+Document{id='421', title='article1', location='D:\Facultate}
+Document{id='324', title='book1', location='D:\Facultate}
