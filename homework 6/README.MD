@@ -1,0 +1,2 @@
+## 
++ Am facut H6( Am reusit sa implementez desenarea grafului in functie de numarul de noduri si de line probability, am implementat posibilitatea de a colora liniile dintre noduri odata cu apasarea pe acestea (rosu/albastru). Butonul "Save" face screenshot la frame, doar ca nu apare in imagine si graful generat, iar butonul "Exit" inchide fereastra. Am pus un videoclip cu functionalitatile programului.)
